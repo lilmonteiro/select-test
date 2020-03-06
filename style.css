@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    width: 20em;
+    height: 10em;
+    align-items: center;
+    justify-content: center;
+}
+
+.start-btn{
+   width: 10em;
+   justify-self: center;
+   background-color: yellow;
+}

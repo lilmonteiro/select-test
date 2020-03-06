@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "Select Text",
+    "description": "Extensão Teste",
+    "author": "Liandra Monteiro",
+    "browser_action": {
+   	 "default_title": "Select Text",
+   	 "default_popup": "index.html",
+   	 "default_icon": "icon.png"
+    }
+}

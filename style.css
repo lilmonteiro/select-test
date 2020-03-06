@@ -11,3 +11,10 @@ body{
    justify-self: center;
    background-color: yellow;
 }
+
+.change-color-btn{
+    width: 10em;
+    justify-self: center;
+    color: wheat;
+    background-color: green;
+ }
